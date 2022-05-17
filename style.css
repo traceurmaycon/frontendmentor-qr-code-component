@@ -68,7 +68,8 @@ main {
 .card-title {
 	margin-top: 30px;
 	padding-top: 0;
-	color: --dark-blue;
+	font-size: 22.5px;
+	color: var(--dark-blue);
 	letter-spacing: 0.5px;
 	animation: zoomIn 1s ease-in;
 }
